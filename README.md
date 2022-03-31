@@ -18,6 +18,6 @@ https://www.patika.dev/tr
 
 **Aşama 5 :** (8, 11 , 12 , 16, 21, 22 )
 
-Big-O notation :  
+2) Big-O notation :  
 
 n tane eleman var ve biz bunu 2 ^x kez tekrarlıyoruz sonuç olarak  O(logn) olur.
